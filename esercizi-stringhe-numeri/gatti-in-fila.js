@@ -17,3 +17,4 @@
 
   http://www.imparareaprogrammare.it
 */
+var cat = 44
